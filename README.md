@@ -1,3 +1,3 @@
 # CreateMachineLearningModels
 
-I went complete the Create Machine Learning Models learning path on Microsoft Learn.
+I completed the Create Machine Learning Models learning path from Microsoft Learn.
